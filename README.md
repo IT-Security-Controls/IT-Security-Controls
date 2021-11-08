@@ -1,6 +1,6 @@
 # IT Security Controls: A Guide to Corporate Standards and Frameworks
 
-This github page is for the book - IT Security Controls: A Guide to Corporate Standards and Frameworks by Virgilio Viegas, [Oben Kuyucu](https://github.com/obenkuyucu), published by
+This github page is for the book - **IT Security Controls: _A Guide to Corporate Standards and Frameworks_** by Virgilio Viegas, [Oben Kuyucu](https://github.com/obenkuyucu), published by
 Apress.
 
 ## Book Summary
