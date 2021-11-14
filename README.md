@@ -4,7 +4,7 @@ This github page is for the book - **IT Security Controls: _A Guide to Corporate
 Apress.
 
 ## Book Summary
-Use this reference for IT security practitioners to get an overview of the major standards and frameworks, and a proposed architecture to meet them. The book identifies and describes the necessary controls and processes that must be implemented in order to secure your organization's infrastructure.
+Reference for IT security practitioners that provides an overview of the major standards and frameworks, and a proposed architecture to meet them. The book identifies and describes the necessary controls and processes that must be implemented in order to secure your organization's infrastructure.
 
 The book proposes a comprehensive approach to the implementation of IT security controls with an easily understandable graphic implementation proposal to comply with the most relevant market standards (ISO 27001, NIST, PCI-DSS, and COBIT) and a significant number of regulatory frameworks from central banks across the World (European Union, Switzerland, UK, Singapore, Hong Kong, India, Qatar, Kuwait, Saudi Arabia, Oman, etc.).
 
